@@ -27,6 +27,9 @@
 // Image used to draw the icon.
 @property (nonatomic, strong) NSString *tabImageWithName;
 
+// Image used to draw the selected icon.
+@property (nonatomic, strong) NSString *selectedTabImageWithName;
+
 // Tab background image
 @property (nonatomic, strong) NSString *backgroundImageName;
 

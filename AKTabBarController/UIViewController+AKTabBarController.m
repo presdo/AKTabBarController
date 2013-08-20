@@ -31,6 +31,11 @@
 	return nil;
 }
 
+- (NSString *)selectedTabImageName
+{
+	return nil;
+}
+
 - (NSString *)tabTitle
 {
 	return nil;
